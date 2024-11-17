@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },  
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "id": "989b",
+      "email": "ansuman18305@gmail.com",
+      "password": "Ansu(^)0"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "userId": 1,
+      "title": "Hello World",
+      "content": "This is my first post!"
+    },
+    {
+      "id": "2",
+      "userId": 2,
+      "title": "Introduction",
+      "content": "Nice to meet you all."
+    }
+  ]
+}
